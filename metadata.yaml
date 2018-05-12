@@ -1,0 +1,36 @@
+_repo: The-Causes-of-the-Corruption-of-the-Traditional-Text-of-the-Holy-GospelsBeing-the-Sequel-to-T__21112
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burgon, John William
+    alias: Burgon, J. W. (John William)
+    birthdate: 1813
+    deathdate: 1888
+    gutenberg_agent_id: '9738'
+    url: http://www.gutenberg.org/2009/agents/9738
+    wikipedia: http://en.wikipedia.org/wiki/John_William_Burgon
+  editor:
+    agent_name: Miller, Edward
+    birthdate: 1825
+    deathdate: 1901
+    gutenberg_agent_id: '9739'
+    url: http://www.gutenberg.org/2009/agents/9739
+description: ''
+gutenberg_issued: '2007-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21112'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Gospels -- Criticism, Textual'
+- !lcc 'BS'
+title: 'The Causes of the Corruption of the Traditional Text of the Holy Gospels
+
+  Being the Sequel to The Traditional Text of the Holy Gospels'
+url: http://www.gutenberg.org/ebooks/21112
